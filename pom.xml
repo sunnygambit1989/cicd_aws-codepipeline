@@ -57,7 +57,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>contacts-app</finalName>
+		<finalName>enablix-app</finalName>
 	</build>
 
 </project>
