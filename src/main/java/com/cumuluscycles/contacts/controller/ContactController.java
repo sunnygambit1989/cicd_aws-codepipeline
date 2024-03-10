@@ -19,7 +19,7 @@ public class ContactController {
 
     @GetMapping("/check")
     public String  getContacts() {
-        return "Spring boot Application running";
+        return "Enablix Spring boot Application running";
     }
 
     @GetMapping("/contact")
