@@ -12,4 +12,4 @@ artifacts:
     - target/enablix-app.jar
     - scripts/*.sh
     - appspec.yml
-  discard-paths: yes
+  discard-paths: no
